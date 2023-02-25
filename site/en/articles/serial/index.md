@@ -672,6 +672,7 @@ and let us know where and how you're using it.
 * [Serial Terminal](https://googlechromelabs.github.io/serial-terminal/)
 * [WebSerial](https://webserial.io/)
 * [Espruino Web IDE](https://www.espruino.com/ide/)
+* [Web Serial Terminal by CAPUF Embedded]{https://serial.capuf.in}
 
 ## Acknowledgements
 
